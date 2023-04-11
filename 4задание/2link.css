@@ -1,0 +1,21 @@
+h1 {
+    color: white;
+}
+
+body{
+    margin: 0;
+}
+
+.kartinka{
+    overflow: hidden;
+    float: top;
+    width: 250;
+    height: 120px;
+}
+
+.kartinki{
+    display: block;
+    background-color: bisque;
+    text-align: center;
+}
+
