@@ -25,6 +25,21 @@
 >+ Добавить теги и ключевые слова к своим работам, чтобы пользователи могли легко найти их через поиск.
 >+ Просматривать работы других дизайнеров на сайте Behance, используя раздел "Explore".
 
+#Задание два
+1) ![image](https://user-images.githubusercontent.com/130051280/231457630-cea04e7b-03cc-4c0c-b14b-15c586792eb2.png)
+2) ![image](https://user-images.githubusercontent.com/130051280/231457768-8da50130-08f5-449a-b294-3c6e87d788b4.png)
+   ![image](https://user-images.githubusercontent.com/130051280/231457829-b0e531e0-ce38-4f82-b2b1-0fff183b1f87.png)
+3) ![image](https://user-images.githubusercontent.com/130051280/231458046-d173eeb4-a8e9-4eef-ae4b-4f2dc5e92447.png)
+4) ![image](https://user-images.githubusercontent.com/130051280/231458212-e4e85655-9ef5-4aa6-a5de-cc709b71d482.png)
+   ![image](https://user-images.githubusercontent.com/130051280/231458271-cdb90cb3-67f9-4aa5-bfaf-1b4b260f2eef.png)
+5) ![image](https://user-images.githubusercontent.com/130051280/231458389-83d4de44-6a35-408f-baec-40889f75298e.png)
+6) ![image](https://user-images.githubusercontent.com/130051280/231458514-650a1ac6-a7c7-47cf-8d43-c554eec4914c.png)
+7) ![image](https://user-images.githubusercontent.com/130051280/231458563-afc69a4b-dfb4-402b-8db2-7bb986d4964c.png)
+   ![image](https://user-images.githubusercontent.com/130051280/231458633-b4da05cb-3d48-4cfc-805c-d588b8caea10.png)
+   ![image](https://user-images.githubusercontent.com/130051280/231458710-2eeac5aa-4dc5-4fb8-a61f-ce1c3c1ad644.png)
+   ![image](https://user-images.githubusercontent.com/130051280/231458787-39f3d028-cf3a-41d2-b9bc-8dedb054895a.png)
+
+
 
 
 
