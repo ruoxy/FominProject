@@ -48,3 +48,14 @@
 
 Запрос базы данных в файлах 
 
+#Задание четыре
+
+ Сайт
+ ![image](https://user-images.githubusercontent.com/130051280/231459603-505fe0b8-67a6-4ba4-97fc-35cf3ca546d7.png)
+ Переходы по ссылкам
+ ![image](https://user-images.githubusercontent.com/130051280/231459746-30d6e5bb-a105-44d9-9c40-19df1585a527.png)
+ ![image](https://user-images.githubusercontent.com/130051280/231459782-48f1c2da-7573-42ca-a3a6-0d948b62ab28.png)
+ ![image](https://user-images.githubusercontent.com/130051280/231459818-f74e6cb7-3239-432f-9e67-ad005859a3cb.png)
+
+
+
