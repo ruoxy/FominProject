@@ -25,7 +25,7 @@
 >+ Добавить теги и ключевые слова к своим работам, чтобы пользователи могли легко найти их через поиск.
 >+ Просматривать работы других дизайнеров на сайте Behance, используя раздел "Explore".
 
-#Задание два
+# Задание два
 1) ![image](https://user-images.githubusercontent.com/130051280/231457630-cea04e7b-03cc-4c0c-b14b-15c586792eb2.png)
 2) ![image](https://user-images.githubusercontent.com/130051280/231457768-8da50130-08f5-449a-b294-3c6e87d788b4.png)
    ![image](https://user-images.githubusercontent.com/130051280/231457829-b0e531e0-ce38-4f82-b2b1-0fff183b1f87.png)
